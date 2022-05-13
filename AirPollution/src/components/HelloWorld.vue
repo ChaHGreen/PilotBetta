@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Airpollution'
+      msg: 'Airpollution Airpolution'
     }
   }
 }
